@@ -1,5 +1,6 @@
 tmp
 *.class
+build.log
 
 # Package Files #
 *.jar
@@ -7,3 +8,4 @@ tmp
 *.ear
 *.pyc
 *.pyo
+

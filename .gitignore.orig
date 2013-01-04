@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+tmp
+*.class
+*.pyc
+*.pyo
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 41e71d3b25d98e7802cd1040045e411663784c35
