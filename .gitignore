@@ -1,4 +1,9 @@
 tmp
 *.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
 *.pyc
 *.pyo
