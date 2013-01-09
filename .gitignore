@@ -2,6 +2,8 @@ tmp
 *.class
 build.log
 
+build
+
 # Package Files #
 *.jar
 *.war
