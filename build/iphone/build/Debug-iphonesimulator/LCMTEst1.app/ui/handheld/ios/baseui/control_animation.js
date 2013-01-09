@@ -1,0 +1,1 @@
+/Users/fionnziegler/Documents/Titanium_Studio_Workspace/plates/Resources/ui/handheld/ios/baseui/control_animation.js

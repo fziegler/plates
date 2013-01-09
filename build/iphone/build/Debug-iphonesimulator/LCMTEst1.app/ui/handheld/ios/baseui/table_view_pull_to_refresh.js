@@ -1,0 +1,1 @@
+/Users/fionnziegler/Documents/Titanium_Studio_Workspace/plates/Resources/ui/handheld/ios/baseui/table_view_pull_to_refresh.js

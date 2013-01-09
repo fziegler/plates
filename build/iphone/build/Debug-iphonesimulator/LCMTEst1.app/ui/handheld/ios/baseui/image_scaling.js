@@ -1,0 +1,1 @@
+/Users/fionnziegler/Documents/Titanium_Studio_Workspace/plates/Resources/ui/handheld/ios/baseui/image_scaling.js
