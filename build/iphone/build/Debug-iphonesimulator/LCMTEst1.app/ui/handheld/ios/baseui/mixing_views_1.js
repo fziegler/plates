@@ -1,1 +1,0 @@
-/Users/fionnziegler/Documents/Titanium_Studio_Workspace/plates/Resources/ui/handheld/ios/baseui/mixing_views_1.js
