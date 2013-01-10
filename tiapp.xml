@@ -14,8 +14,8 @@
         <target device="blackberry">false</target>
     </deployment-targets>
     <sdk-version>2.1.4.GA</sdk-version>
-    <id>com.lmc.test</id>
-    <name>LCMTEst1</name>
+    <id>com.plates</id>
+    <name>plates</name>
     <version>1.0</version>
     <publisher>fionnziegler</publisher>
     <url>http://</url>

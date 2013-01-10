@@ -28,7 +28,6 @@ var login = new Window({
 login.open();
 
 Ti.App.addEventListener('grantEntrance', function(event) {
-	alert(event.name);
 	//determine platform and form factor and render approproate components
 	var osname = Ti.Platform.osname, version = Ti.Platform.version, height = Ti.Platform.displayCaps.platformHeight, width = Ti.Platform.displayCaps.platformWidth;
 

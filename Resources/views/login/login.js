@@ -20,7 +20,7 @@ var LoginView = View.extend({
 		this.win.add(content);
 
 		var l2 = Titanium.UI.createLabel({
-			text : 'my plates',
+			text : 'plates',
 			height : 100,
 			width : 'auto',
 			shadowColor : '#aaa',
