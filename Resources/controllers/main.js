@@ -1,6 +1,5 @@
 Ti.include('../Redux/redux.js');
 include('../views/login/login.js');
-include('../views/main/main.js');
 
 var MainController = Controller.extend({
 

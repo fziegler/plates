@@ -17,6 +17,7 @@ var used = [Ti.UI.createTabGroup, Ti.UI.createWindow, Ti.UI.createTab, Ti.UI.cre
 var Cloud = require('ti.cloud');
 Cloud.debug = true;
 var globals = {};
+var u = Ti.Android != undefined ? 'dp' : 0;
 
 //This is the main window of the application
 var login = new Window({
