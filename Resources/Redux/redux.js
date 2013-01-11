@@ -204,7 +204,8 @@ var redux = function (selector) {
             if (parsedrjss[file]) {
                 return parsedrjss[file];
             }
-            var rjss = (Ti.Filesystem.getFile(file).read() + '').replace(/[\r\t\n]/g, ' ');
+            Ti.API.info("FILE should be en, was = " + file);
+            var rjss = (Ti.Filesystem.getFile(Titanium.Filesystem.resourcesDirectory + file).read() + '').replace(/[\r\t\n]/g, ' ');
             var result = '', braceDepth = 0;
             var inComment = false, inSelector = false, inAttributeBrace = false;
             var canStartSelector = true, canBeAttributeBrace = false;

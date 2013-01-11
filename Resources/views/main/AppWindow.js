@@ -1,3 +1,4 @@
+var u = Ti.Android != undefined ? 'dp' : 0;
 //A window object which will be associated with the stack of windows
 exports.AppWindow = function(args) {
 	var instance = Ti.UI.createWindow(args);
